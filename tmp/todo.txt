@@ -1,2 +1,0 @@
-ajout du fichier .gitgnore -
-ajout du fichier .gitgnore
